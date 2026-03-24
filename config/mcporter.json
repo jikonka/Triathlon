@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "gongfeng": {
+      "url": "https://git.woa.com/api/mcp/mcp",
+      "headers": {
+        "OAUTH-TOKEN": "5d4c27f37ece8c222f0a77e173e3f70e",
+        "X-USERNAME": "zfan"
+      }
+    },
+    "isearch": {
+      "url": "https://prod.mcp.it.woa.com/app_iwiki_mcp/mcp3",
+      "headers": {
+        "Authorization": "Bearer tai_pat_Okc-YFrQ4AZ80Z3-6m7BJXhwDYbn1eN0wlxSkdxGjAY.ed9TUM7JDUOAyEVLG3IZ-vwJEe3zZOdCCfaz7AnJkhI"
+      }
+    },
+    "iwiki": {
+      "url": "https://prod.mcp.it.woa.com/app_iwiki_mcp/mcp3",
+      "headers": {
+        "Authorization": "Bearer tai_pat_Okc-YFrQ4AZ80Z3-6m7BJXhwDYbn1eN0wlxSkdxGjAY.ed9TUM7JDUOAyEVLG3IZ-vwJEe3zZOdCCfaz7AnJkhI"
+      }
+    },
+    "tapd": {
+      "url": "http://mcp-idc.tapd.woa.com/mcp/",
+      "headers": {
+        "OAUTH-TOKEN": "5d4c27f37ece8c222f0a77e173e3f70e",
+        "X-USERNAME": "zfan",
+        "X-Tools-Set": "lookup_tapd_tool,lookup_tool_param_schema,proxy_execute_tool",
+        "X-Keep-Links": "true"
+      }
+    }
+  }
+}
