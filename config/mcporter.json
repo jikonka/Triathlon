@@ -27,6 +27,12 @@
         "X-Tools-Set": "lookup_tapd_tool,lookup_tool_param_schema,proxy_execute_tool",
         "X-Keep-Links": "true"
       }
+    },
+    "lexiang": {
+      "url": "https://mcp.lexiang-app.com/mcp?company_from=csig&preset=meta",
+      "headers": {
+        "Authorization": "Bearer 5d4c27f37ece8c222f0a77e173e3f70e"
+      }
     }
   }
 }
